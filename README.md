@@ -4,7 +4,7 @@
 <table>
    <tr>
       <td align="center">
-         <a href="https://github.com/watery-desert/movie_2_dimest" target="_blank">
+         <a href="https://github.com/watery-desert/movie_2_dimest">
          <img src="https://raw.githubusercontent.com/watery-desert/assets/main/movie_2_dimest/screen_recording.gif"  width="200"/>
          </a>
       </td>
