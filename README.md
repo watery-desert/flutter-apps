@@ -1,10 +1,10 @@
-A place holder for all flutter UI design (animation) challenge.
+## A placeholder for all flutter UI design (animation) challenges.
 
 
 <table>
    <tr>
       <td align="center">
-         <a href="https://github.com/watery-desert/movie_2_dimest">
+         <a href="https://github.com/watery-desert/movie_2_dimest" target="_blank">
          <img src="https://raw.githubusercontent.com/watery-desert/assets/main/movie_2_dimest/screen_recording.gif"  width="200"/>
          </a>
       </td>
