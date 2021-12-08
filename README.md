@@ -1,3 +1,10 @@
+
+### ⚠️ warning ⚠️
+
+This is just a placeholder for my all flutter open-source app projects link. Do not fork it cause it's useless. It does not contain any code just a README.md file.
+
+👆👆👆
+
 ## ➡️ flutter UI design (animation) challenges.
 
 
