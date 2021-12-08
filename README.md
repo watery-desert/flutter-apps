@@ -1,4 +1,4 @@
-## A placeholder for all flutter UI design (animation) challenges.
+## flutter UI design (animation) challenges.
 
 
 <table>
@@ -37,6 +37,12 @@
    </tr>
 </table>
 
+## Complete flutter app with firebase backend.
+
+   <a href="https://github.com/watery-desert/flower_selling_app">
+   <img src="https://raw.githubusercontent.com/watery-desert/assets/main/flower_selling_app/screen_recordings/overview.gif"  width="200"/>
+   </a>
+
 
 <a href="https://github.com/watery-desert/movie_2_dimest">
 1. movie_2_dimest
@@ -66,3 +72,6 @@
 5. car_rental_ronas_it
 </a>
 
+<a href="https://github.com/watery-desert/flower_selling_app">
+6. flower_selling_app
+</a>
