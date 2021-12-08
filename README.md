@@ -1,4 +1,4 @@
-## flutter UI design (animation) challenges.
+## ➡️ flutter UI design (animation) challenges.
 
 
 <table>
@@ -37,7 +37,7 @@
    </tr>
 </table>
 
-## Complete flutter app with firebase backend.
+## ➡️ Complete flutter app with firebase backend. 
 
    <a href="https://github.com/watery-desert/flower_selling_app">
    <img src="https://raw.githubusercontent.com/watery-desert/assets/main/flower_selling_app/screen_recordings/overview.gif"  width="200"/>
@@ -45,7 +45,7 @@
 
 <div>
 
-## All repositories link 
+## All repositories link 👇
 
 <a href="https://github.com/watery-desert/movie_2_dimest">
 1. movie_2_dimest
