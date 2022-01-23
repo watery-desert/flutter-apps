@@ -59,46 +59,14 @@ Click on the gif, repository link is embedded
    </a>
 
 <div>
+<div>
 
-<!-- ## All repositories link 👇
+
    
 [![Movie 2 Dimest](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=movie_2_dimest)](https://github.com/watery-desert/movie_2_dimest)
 [![Food Recipes Afterglow](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=food_recipes_afterglow)](https://github.com/watery-desert/food_recipes_afterglow)
 [![Search Animation Shot Ronas IT](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=search_animation_shot_ronas_it)](https://github.com/watery-desert/search_animation_shot_ronas_it)
 [![Upload File Mauricio Bucardo](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=upload_file_mauricio_bucardo)](https://github.com/watery-desert/upload_file_mauricio_bucardo)
 [![Car Rental Ronas IT](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=car_rental_ronas_it)](https://github.com/watery-desert/car_rental_ronas_it)
-[![Flower selling app](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=flower_selling_app)](https://github.com/watery-desert/flower_selling_app)    -->
+[![Flower selling app](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=flower_selling_app)](https://github.com/watery-desert/flower_selling_app)    
 
-<!-- <a href="https://github.com/watery-desert/movie_2_dimest">
-1. movie_2_dimest
-</a>
-
-<div>
-
-<a href="https://github.com/watery-desert/food_recipes_afterglow">
-2. food_recipes_afterglow
-</a>
-
-<div>
-
-<a href="https://github.com/watery-desert/search_animation_shot_ronas_it">
-3. search_animation_shot_ronas_it
-</a>
-
-<div>
-
-<a href="https://github.com/watery-desert/upload_file_mauricio_bucardo">
-4. upload_file_mauricio_bucardo
-</a>
-
-<div>
-
-<a href="https://github.com/watery-desert/car_rental_ronas_it">
-5. car_rental_ronas_it
-</a>
-
-<div>
-
-<a href="https://github.com/watery-desert/flower_selling_app">
-6. flower_selling_app
-</a> -->
