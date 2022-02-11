@@ -1,9 +1,4 @@
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/watery_desert)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/watery_desert)](https://twitter.com/watery_desert)
-
-
-
 ### ⚠️ warning ⚠️
 
 This is just a placeholder for my all flutter open-source app projects link. Do not fork it cause it's useless. It does not contain any code just a README.md file.
