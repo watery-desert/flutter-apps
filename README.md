@@ -61,5 +61,5 @@ Click on the gif, repository link is embedded
 [![Upload File Mauricio Bucardo](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=upload_file_mauricio_bucardo)](https://github.com/watery-desert/upload_file_mauricio_bucardo)
 [![Car Rental Ronas IT](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=car_rental_ronas_it)](https://github.com/watery-desert/car_rental_ronas_it)
 [![Flower selling app](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=flower_selling_app)](https://github.com/watery-desert/flower_selling_app)
-[![Firebase authentication riverpod](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=flutter_firebase_authentication_riverpod)](https://github.com/watery-desert/flutter_firebase_authentication_riverpod)   
+[![Firebase authentication riverpod](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=firebase_authentication_riverpod)](https://github.com/watery-desert/firebase_authentication_riverpod)   
 
