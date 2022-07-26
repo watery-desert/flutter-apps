@@ -46,13 +46,30 @@ Click on the gif, repository link is embedded
 
 ## ➡️ App with firebase backend.
 
-   <a href="https://github.com/watery-desert/flower_selling_app">
-   <img src="https://raw.githubusercontent.com/watery-desert/assets/main/flower_selling_app/screen_recordings/overview.gif"  width="200"/>
-   </a>
-<a href="https://github.com/watery-desert/firebase_authentication_riverpod"><img src="https://raw.githubusercontent.com/watery-desert/assets/main/firebase-authentication-riverpod/screen-recording.gif" width="200"/><a/>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/watery-desert/flower_selling_app">
+        <img
+          src="https://raw.githubusercontent.com/watery-desert/assets/main/flower_selling_app/screen_recordings/overview.gif"
+          width="200"
+        />
+      </a>
+    </td>
+    <td>
+      <a
+        href="https://github.com/watery-desert/firebase_authentication_riverpod"
+        ><img
+          src="https://raw.githubusercontent.com/watery-desert/assets/main/firebase-authentication-riverpod/screen-recording.gif"
+          width="200"
+      /></a>
+    </td>
+  </tr>
+</table>
 
 <div>
 
+## ➡️ Index
 
 [![Movie App](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=movie_app)](https://github.com/watery-desert/movie_app)
 [![Food Recipes Afterglow](https://github-readme-stats.vercel.app/api/pin/?username=watery-desert&repo=food_recipes_afterglow)](https://github.com/watery-desert/food_recipes_afterglow)
